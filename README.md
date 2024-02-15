@@ -2,6 +2,6 @@
 - 👀 I’m interested in puzzles
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python, and Java
 - 💞️ I’m looking to collaborate on anything and everything
-- 📫 How to reach me: Drop me a line or two :)
+- 📫 How to reach me: Batsignal
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I created my own language
+- ⚡ Fun fact: Shoes that were specefic to left and right feet were not created until the Civil War
