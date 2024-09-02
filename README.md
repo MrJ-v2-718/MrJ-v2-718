@@ -1,7 +1,4 @@
 - 👋 Hi, I’m MrJ.
 - 👀 I’m interested in puzzles.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Bash, SQL, Python, and Java.
-- 💞️ I’m looking to collaborate on anything and everything.
-- 📫 How to reach me: Batsignal
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Shoes that were specefic to left and right feet were not created until the Civil War.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, Bash, SQL, Python, and Java.
+- ⚡ Fun fact: Shoes that were specific to left and right feet were not created until the Civil War.
