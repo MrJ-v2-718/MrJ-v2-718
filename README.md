@@ -1,4 +1,3 @@
 - 👋 Hi, I’m MrJ.
 - 👀 I’m interested in puzzles.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, Bash, SQL, Python, and Java.
-- ⚡ Fun fact: Shoes that were specific to left and right feet were not created until the Civil War.
