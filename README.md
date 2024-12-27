@@ -1,3 +1,3 @@
 - 👋 Hi, I’m MrJ.
-- 👀 I’m interested in puzzles.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, Bash, SQL, Python, and Java.
+- 👀 I’m interested in puzzles and automation.
+- 🌱 I’ve experience with HTML, CSS, JavaScript, PHP, Bash, SQL, Python, and Java.
